@@ -31,6 +31,10 @@
                     <a class="nav-link" href="?action=logout">Logout</a>
                 </li>
                
+                <li class="nav-item">
+                    <a class="nav-link" href="?action=logout">Logout</a>
+                </li>
+               
             </ul>
         </div>
     </div>
